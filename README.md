@@ -1,4 +1,4 @@
-# BDD - Conta Bancaria
+# Behavior Driven Development Conta Bancaria
 Atividade utilizando Cucumber e Junit
 
 ## Descrição do repositório
